@@ -1,0 +1,11 @@
+C:\Users\gabriel.rsantos75\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\TI 10\EmpresaSA\mercadoSA\bin\Debug\mercadoSA.exe.config
+C:\Users\gabriel.rsantos75\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\TI 10\EmpresaSA\mercadoSA\bin\Debug\mercadoSA.exe
+C:\Users\gabriel.rsantos75\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\TI 10\EmpresaSA\mercadoSA\bin\Debug\mercadoSA.pdb
+C:\Users\gabriel.rsantos75\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\TI 10\EmpresaSA\mercadoSA\obj\Debug\mercadoSA.csproj.AssemblyReference.cache
+C:\Users\gabriel.rsantos75\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\TI 10\EmpresaSA\mercadoSA\obj\Debug\mercadoSA.formMenu3.resources
+C:\Users\gabriel.rsantos75\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\TI 10\EmpresaSA\mercadoSA\obj\Debug\mercadoSA.forSplash3.resources
+C:\Users\gabriel.rsantos75\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\TI 10\EmpresaSA\mercadoSA\obj\Debug\mercadoSA.Properties.Resources.resources
+C:\Users\gabriel.rsantos75\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\TI 10\EmpresaSA\mercadoSA\obj\Debug\mercadoSA.csproj.GenerateResource.cache
+C:\Users\gabriel.rsantos75\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\TI 10\EmpresaSA\mercadoSA\obj\Debug\mercadoSA.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.rsantos75\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\TI 10\EmpresaSA\mercadoSA\obj\Debug\mercadoSA.exe
+C:\Users\gabriel.rsantos75\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\TI 10\EmpresaSA\mercadoSA\obj\Debug\mercadoSA.pdb
